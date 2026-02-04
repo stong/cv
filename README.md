@@ -53,10 +53,14 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 - [CS 3210: Aarch64 Type 1 Hypervisor & Operating System (2020)](https://github.com/stong/rustos-hv)
 - [CS 3220: RISC pipelined processor for Altera FPGA (2020)](https://github.com/stong/risc-uproc/tree/master)
 - [Retargetable Tiger to MIPS compiler (2019)](https://github.com/stong/cs4240-tiger-compiler)
+- Applied reverse engineering seminar (2019)
 - [LC-2200 LLVM backend (2019)](https://github.com/transfer-learning/llvm-tl45/tree/tl45)
 - [Restoring an old IMSAI 8080 (2019)](https://github.com/gt-retro-computing)
 - [Sneaking into Black Hat (2019)](https://blog.perfect.blue/Sneaking-into-Blackhat-2018)
 - [gwcc: C to LC-3 compiler (2019)](https://github.com/gt-retro-computing/gwcc)
+- Bitcoin brainwallet stuff (2018)
+- Minecraft Anti-cheat (2017). First to invent sensitivity slide based detections. Never went market :(
+...many Minecraft and CS:GO hacks lol
 
 ## CTF Challenges
 
