@@ -49,7 +49,7 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 - [gwcc: C to LC-3 compiler (2019)](https://github.com/gt-retro-computing/gwcc)
 
 ## Creative Writing
-- [Don't leave your server out, it'll grow mold](https://x.com/gf_256/status/2018844976486945112)
+- [Don't leave your server out, it'll grow mold](https://x.com/gf_256/status/2018844976486945112) ⭐ Hit Tweet
 - [Neurplasticity](https://x.com/gf_256/status/1767418540036895019)
 
 ## CTF Challenges
