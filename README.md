@@ -60,7 +60,7 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 - [gwcc: C to LC-3 compiler (2019)](https://github.com/gt-retro-computing/gwcc)
 - Bitcoin brainwallet stuff (2018)
 - Minecraft Anti-cheat (2017). First to invent sensitivity slide based detections. Never went market :(
-...many Minecraft and CS:GO hacks lol
+- ...many Minecraft and CS:GO hacks lol
 
 ## CTF Challenges
 
