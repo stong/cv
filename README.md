@@ -6,6 +6,9 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 
 ## Greatest hits
 
+- [Bad Apple in ASCII Art](https://bad.apple.zellic.io) - [⭐ Hit Tweet](https://x.com/gf_256/status/2015012967427854573)
+- [Gradscii: Subpixel ASCII Art via Gradient Descent](https://github.com/stong/gradscii-art/tree/master) - [⭐ Hit Tweet](https://x.com/gf_256/status/2014722218077376607)
+- [Stripe Press Annas Archive Extension](https://github.com/stong/stripe-press-helper) - [⭐ Hit Tweet](https://x.com/gf_256/status/2009085456181547074)
 - [Senatordle](https://senatordle.com) - ⭐ [Hit Tweet](https://x.com/gf_256/status/2002997989221306753)
 - [tldw.tube — Too Long, Didn't Watch! YouTube video summarizer](https://x.com/gf_256/status/1877925388950589561) — ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=43021044)
 - [Reverse Engineering an Ableton Crack](https://x.com/gf_256/status/1782656618015904103) — ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=40132719)
@@ -19,6 +22,10 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 - [WINNIE: COTS Windows fuzzing with fork() (NDSS'21)](https://www.ndss-symposium.org/ndss-paper/winnie-fuzzing-windows-applications-with-harness-synthesis-and-fast-cloning/)
 - [Binary Ninja Signature Libraries (2020)](https://binary.ninja/2020/03/11/signature-libraries.html)
 - [Hit tweets](https://x.com/gf_256/status/1562994921253904384)
+
+## Creative Writing
+- [Don't leave your server out, it'll grow mold](https://x.com/gf_256/status/2018844976486945112) ⭐ Hit Tweet
+- [Neurplasticity](https://x.com/gf_256/status/1767418540036895019)
 
 ## Everything else
 
@@ -47,10 +54,6 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 - [Restoring an old IMSAI 8080 (2019)](https://github.com/gt-retro-computing)
 - [Sneaking into Black Hat (2019)](https://blog.perfect.blue/Sneaking-into-Blackhat-2018)
 - [gwcc: C to LC-3 compiler (2019)](https://github.com/gt-retro-computing/gwcc)
-
-## Creative Writing
-- [Don't leave your server out, it'll grow mold](https://x.com/gf_256/status/2018844976486945112) ⭐ Hit Tweet
-- [Neurplasticity](https://x.com/gf_256/status/1767418540036895019)
 
 ## CTF Challenges
 
