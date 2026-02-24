@@ -25,7 +25,7 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 
 ## Creative Writing
 - [Don't leave your server out, it'll grow mold](https://x.com/gf_256/status/2018844976486945112) ⭐ Hit Tweet
-- [Neurplasticity](https://x.com/gf_256/status/1767418540036895019)
+- [Neuroplasticity](https://x.com/gf_256/status/1767418540036895019)
 
 ## Videos
 - [Crazy find at the Huawei store](https://x.com/gf_256/status/1995353283549159931) ⭐ Hit Tweet
